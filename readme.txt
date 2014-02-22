@@ -1,0 +1,1 @@
+This plugin adds background images to each of the categories in the index. Just add your images into the images folder of the plugin and put the name of your category in the css file.
